@@ -5,12 +5,7 @@ This project is an online food ordering website developed using React. It allows
 
 You can also add any new special dishes by using our create container component.
 
-# Setting up the website environment
 
-  1. `git clone https://github.com/saivarun4002/Personal_Website.git` - To clone the repository to your local system
-  2. `cd Food_Order`
-  3. `npm install` - To install all the dependencies in the package.json
-  4. `npm start` - To start the server in your local default browser
 
 
 
@@ -36,6 +31,15 @@ You can also add any new special dishes by using our create container component.
 
 
 <img width="370" alt="Screenshot 2023-03-10 at 4 51 57 PM" src="https://user-images.githubusercontent.com/91950083/224303909-bdce4be8-f44f-4ee9-8cce-29e1d710c999.png">
+
+
+## Setting up the website environment
+
+  1. `git clone https://github.com/saivarun4002/Personal_Website.git` - To clone the repository to your local system
+  2. `cd Food_Order`
+  3. `npm install` - To install all the dependencies in the package.json
+  4. `npm start` - To start the server in your local default browser
+
 
 
 
