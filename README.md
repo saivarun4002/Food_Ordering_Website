@@ -17,6 +17,6 @@ You can also add any new special dishes by using our create container component.
 ## Tech stack
 <p align="center">
   <img src="https://www.gameartguppy.com/wp-content/uploads/2019/04/mascot_firebase-logo.png" width="80"></img>
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  https://www.npmjs.com/package/jspdf-react
 </p>
 
