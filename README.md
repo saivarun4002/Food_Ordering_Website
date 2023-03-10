@@ -30,8 +30,12 @@ You can also add any new special dishes by using our create container component.
 
 ## Screenshots
 <img width="1343" alt="Screenshot 2023-03-10 at 4 31 22 PM" src="https://user-images.githubusercontent.com/91950083/224299497-64cb0e7e-4215-4f0a-8bf9-c29c80d81dad.png">
+<img width="1344" alt="Screenshot 2023-03-10 at 4 35 39 PM" src="https://user-images.githubusercontent.com/91950083/224300288-fbb0c696-4abb-4574-87c7-f4045192d1ca.png">
 
 
+
+
+<img width="370" alt="Screenshot 2023-03-10 at 4 51 57 PM" src="https://user-images.githubusercontent.com/91950083/224303909-bdce4be8-f44f-4ee9-8cce-29e1d710c999.png">
 
 
 
