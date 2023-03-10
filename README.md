@@ -41,7 +41,7 @@ You can also add any new special dishes by using our create container component.
 ## Setting up the website environment
 
   1. `git clone https://github.com/saivarun4002/Personal_Website.git` - To clone the repository to your local system
-  2. `cd Food_Order`
+  2. `cd Food_Ordering_Website`
   3. `npm install` - To install all the dependencies in the package.json
   4. `npm start` - To start the server in your local default browser
 
