@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49cf2b21.css",
+    "main.js": "/static/js/main.8ee9fb43.js",
+    "static/media/c3.png": "/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/fi1.png": "/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/vector.jpg": "/static/media/vector.9c230ffbc2279989cf4e.jpg",
+    "static/media/f1.png": "/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/home.png": "/static/media/home.d6f20db929517197608e.png",
+    "static/media/iphone.png": "/static/media/iphone.044052cb0da530d5fd1b.png",
+    "static/media/i1.png": "/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/heroBg.png": "/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/robot.png": "/static/media/robot.df1fe7b1145c21f57eda.png",
+    "static/media/hot-pot.png": "/static/media/hot-pot.29285179207de60cb81c.png",
+    "static/media/dish.png": "/static/media/dish.0efb31ada7e33952568b.png",
+    "static/media/gamer.png": "/static/media/gamer.3c37a790f9676542b372.png",
+    "static/media/wallet.png": "/static/media/wallet.8e9a754ccc4e6350f2c3.png",
+    "static/media/burger.png": "/static/media/burger.10642008973f48beb518.png",
+    "static/media/hen.png": "/static/media/hen.82dd0bf760b880dd40e1.png",
+    "static/media/avatar.png": "/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/trolley.png": "/static/media/trolley.e26818c0ffe739d3f9e1.png",
+    "static/media/NotFound.svg": "/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/index.html",
+    "main.49cf2b21.css.map": "/static/css/main.49cf2b21.css.map",
+    "main.8ee9fb43.js.map": "/static/js/main.8ee9fb43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49cf2b21.css",
+    "static/js/main.8ee9fb43.js"
+  ]
+}
