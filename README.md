@@ -21,3 +21,12 @@ You can also add any new special dishes by using our create container component.
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="80"></img>
 </p>
 
+---
+
+## Screenshots
+
+
+
+
+https://user-images.githubusercontent.com/91950083/224298188-d0704929-0cb1-4ab4-b668-981b2feb5167.mov
+
