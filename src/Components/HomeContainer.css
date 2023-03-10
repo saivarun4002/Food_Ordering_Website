@@ -1,0 +1,88 @@
+/* .sex{
+    background-color: black;
+    
+} */
+
+
+
+.lexa{
+   height: 700px;
+   width: 1000px;
+
+}
+
+* {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    /* --purple: rgb(123, 31, 162);
+    --violet: rgb(103, 58, 183);
+    --pink: rgb(244, 143, 177); */
+            
+  }
+  
+  body {
+    margin: 0;
+    background-color: #060C1F;
+    font-family: 'Almarai', sans-serif;
+  }
+
+
+.home{
+    display: flex;
+    flex-wrap: wrap;
+    gap:1.5rem;
+    min-height: 100vh;
+    align-items: center;
+    /* background:url(/Users/saivarunavadhuta/Desktop/varun_website/src/Components/img/home-bg.jpg) no-repeat; */
+    background-size: cover;
+    background-position: center;
+  }
+
+  .home .image{
+    flex:1 1 40rem;
+  }
+  
+  .home .image img{
+    width:100%;
+    padding:1rem; 
+    animation:float 3s linear infinite;
+  }
+ @keyframes float{
+    0%, 100%{
+      transform: translateY(0rem);
+    }
+    50%{
+      transform: translateY(3rem);
+    }
+  } 
+
+
+  /* :root {  
+    --purple: rgb(123, 31, 162);
+    --violet: rgb(103, 58, 183);
+    --pink: rgb(244, 143, 177);
+  }
+
+
+@keyframes background-pan{
+  from{
+    background-position: 0% center;
+  }
+
+  to{
+    background-position: -200% center;
+  }
+}
+
+.magic{
+  animation: background-pan 3s linear infinite;
+  background: linear-gradient(
+    to right,
+    var(--purple),
+    var(--violet),
+    var(--pink),
+    var(--purple)
+  );
+  -webkit-background-clip: text;
+  white-space: nowrap;
+} */
