@@ -44,6 +44,7 @@ You can also add any new special dishes by using our create container component.
   2. `cd Food_Ordering_Website`
   3. `npm install` - To install all the dependencies in the package.json
   4. `npm start` - To start the server in your local default browser
+  5. `The website will be available at http://localhost:3000/.`
 
 
 
