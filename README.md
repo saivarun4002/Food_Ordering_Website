@@ -17,6 +17,6 @@ You can also add any new special dishes by using our create container component.
 ## Tech stack
 <p align="center">
   <img src="https://www.gameartguppy.com/wp-content/uploads/2019/04/mascot_firebase-logo.png" width="80"></img>
-  <i class="fa-brands fa-react"></i>
+  <img src="https://chevtek.io/content/images/2021/02/ezgif.com-gif-maker.png" width="80"></img>
 </p>
 
