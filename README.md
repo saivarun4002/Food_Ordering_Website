@@ -18,5 +18,6 @@ You can also add any new special dishes by using our create container component.
 <p align="center">
   <img src="https://www.gameartguppy.com/wp-content/uploads/2019/04/mascot_firebase-logo.png" width="80"></img>
   <img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-512.png" width="80"></img>
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="80"></img>
 </p>
 
