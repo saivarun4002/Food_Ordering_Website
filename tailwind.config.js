@@ -57,8 +57,7 @@ module.exports = {
         cartBg: "#282a2c",
         cartItem: "#2e3033",
         cartTotal: "#343739",
-        // bitch: "#2C74B3",
-        bitch: "#FF577F",
+        glitch: "#FF577F",
     
       },
     },
