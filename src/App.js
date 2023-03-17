@@ -45,6 +45,9 @@ const App = () => {
             <Route path='/SignupPage' element={<Signup />} />
 
             <Route path='/PaymentPage' element={<Payment />} />
+              
+              
+//             <Route path='/Location' element={<Location />} />
 
            
          </Routes>
