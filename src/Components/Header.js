@@ -76,7 +76,7 @@ function Header() {
             <Link  to={'/'} className='flex items-center gap-2'>
                 <motion.img whileTap={{scale:0.6}}
                  src={Hen} className="w-10 object-cover" alt='logo'/>
-                <p className=' text-xl font-bold hello'>Che<span className="gay">fy</span></p>
+                <p className=' text-xl font-bold hello'>Che<span className="grape">fy</span></p>
             </Link>
 
        <div className='flex items-center gap-8'>
