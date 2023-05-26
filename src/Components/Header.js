@@ -76,7 +76,7 @@ function Header() {
             <Link  to={'/'} className='flex items-center gap-2'>
                 <motion.img whileTap={{scale:0.6}}
                  src={Hen} className="w-10 object-cover" alt='logo'/>
-                <p className=' text-xl font-bold fuck'>Che<span className="gay">fy</span></p>
+                <p className=' text-xl font-bold hello'>Che<span className="gay">fy</span></p>
             </Link>
 
        <div className='flex items-center gap-8'>
@@ -85,15 +85,15 @@ function Header() {
        animate={{opacity: 1 , x: 0}}
        exit={{opacity: 1 , x: 200}}
        className='flex items-center gap-8'>
-                <li className='fuck cursor-pointer'>Home</li>
-                <li className='fuck cursor-pointer'>Menu</li>
-                <li className='fuck cursor-pointer'>About Us</li>
-                <li className='fuck cursor-pointer'>Service</li>
+                <li className='hello cursor-pointer'>Home</li>
+                <li className='hello cursor-pointer'>Menu</li>
+                <li className='hello cursor-pointer'>About Us</li>
+                <li className='hello cursor-pointer'>Service</li>
             </motion.ul>
 
  {/* CART */}
             <div className='relative flex items-center justify-center' onClick={showCart} >
-                <MdShoppingBasket className=' fuck  cursor-pointer' />
+                <MdShoppingBasket className=' hello  cursor-pointer' />
 
               {/* Needs to be rendered only if there are cart-items */}
               {cartItems && cartItems.length > 0 &&  (
@@ -169,7 +169,7 @@ function Header() {
         <div className='flex  items-center justify-between md:hidden w-full h-full'>
 
         <div className='relative flex items-center justify-center' onClick={showCart} >
-                <MdShoppingBasket className=' fuck  cursor-pointer' />
+                <MdShoppingBasket className=' hello  cursor-pointer' />
                 
                 {cartItems && cartItems.length > 0 &&  (
                 <div className=' absolute -top-3 -right-3 w-5 h-5 rounded-full bg-cartNumBg flex items-center justify-center'>
